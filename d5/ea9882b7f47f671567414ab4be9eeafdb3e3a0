@@ -1,0 +1,14 @@
+main.go
+  h_fbfbd499db2528 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d5ea9882b7f47f671567414ab4be9eeafdb3e3a0",
+  "prompts": {},
+  "humans": {
+    "h_fbfbd499db2528": {
+      "author": "KevenAbraham <abraham.keven20@gmail.com>"
+    }
+  }
+}
